@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Editor",
+  "description": "A professional AI-powered image editing tool using Gemini 2.5 Flash Image. Upload a photo and describe how you want to change it.",
+  "requestFramePermissions": []
+}
